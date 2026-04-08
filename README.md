@@ -1,4 +1,4 @@
-#trabajo
+# trabajo
 1. Arquitectura de Virtualización en Windows 11
 .El Aislamiento de Núcleo y VBS (Virtualization-Based Security) en Windows 11 tienen un impacto crítico en los entornos de virtualización porque modifican la forma en que el sistema operativo accede al hardware.
 Bloqueo de acceso a VT-x / AMD-V
